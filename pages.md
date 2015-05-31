@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pages
-permalink: /about/
+permalink: /pages/
 ---
 
 - [しゅうごのホームページ]({{site.url}}{{site.baseurl}}/shugo)
