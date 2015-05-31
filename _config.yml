@@ -1,0 +1,7 @@
+# Site settings
+title: CoderDojo Umeda
+description: CoderDojo 梅田の GitHub ページ
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://coderdojo-umeda.github.io" # the base hostname & protocol for your site
+# Build settings
+markdown: kramdown
